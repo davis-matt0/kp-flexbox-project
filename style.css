@@ -78,12 +78,16 @@ img {
 }
 
 .about {
-  padding: 8em 0;
+  padding: 8em 2em;
 }
 
 .about h2 {
   text-align: center;
   color: #824936;
+}
+
+.example {
+  padding: 7em 2em;
 }
 
 .example h2 {
@@ -96,11 +100,9 @@ img {
 
 .one {
   background-color: #222c2a;
-  padding: 7em 0;
   margin: 0;
 }
 
 .two {
   background-color: #824936;
-  padding: 7em 0;
 }
