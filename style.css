@@ -46,8 +46,8 @@ img {
 
 .row {
   display: flex;
-  /* justify-content: center; */
-  /* align-items: center; */
+  justify-content: center;
+  align-items: center;
   gap: 5em;
 }
 
@@ -105,4 +105,10 @@ img {
 
 .two {
   background-color: #824936;
+}
+
+@media (max-width: 600px) {
+  .row {
+    display: block;
+  }
 }
