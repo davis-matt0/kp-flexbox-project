@@ -69,10 +69,11 @@ img {
   margin: 0 auto;
 }
 
-.hero-content h2 {
+.hero-content p {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
+  letter-spacing: 10px;
   text-transform: uppercase;
   margin: 0;
 }
